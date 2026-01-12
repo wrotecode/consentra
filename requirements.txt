@@ -1,5 +1,13 @@
 fastapi
-uvicorn
+uvicorn[standard]
 opencv-python
 numpy
 python-multipart
+Pillow
+torch
+torchvision
+scipy
+slowapi
+python-jose[cryptography]
+python-dotenv
+requests
